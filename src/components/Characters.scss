@@ -1,0 +1,20 @@
+.characters{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    padding: 10px;
+    margin: 10px;
+    align-items: flex-start;
+    background-color: #A63747;
+    border-radius: 30px;
+    color: white;
+}
+
+.cardChar{
+    width: 100px;
+    img{
+        
+        width: 50px;
+        border-radius: 100px;
+    }
+}

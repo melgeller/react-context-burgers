@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url(https://virtualbackgrounds.site/wp-content/uploads/2022/03/bobs-burgers-behind-the-counter.jpg);
+  background-size:auto;
 }
 
 code {

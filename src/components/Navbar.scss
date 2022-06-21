@@ -1,0 +1,17 @@
+.navbar{
+    border: 3px solid #A63747;
+    border-radius: 30px;
+    margin: 10px;
+    background-color: white;
+    img{
+        width: 50px;
+    }
+    ul{
+        display: flex;
+        gap: 40px;
+        align-items: center;
+    }
+    li{
+        list-style-type: none;
+    }
+}
